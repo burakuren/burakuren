@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burakuren101
+- 👋 Hi, I’m Burak Üren
 - 👀 I’m interested in Backend Development, Python, Flask
 - 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on ...
