@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burakuren101
 - 👀 I’m interested in Backend Development, Python, Flask
-- 🌱 I’m currently learning REST APIs with Flask and Python
+- 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me burakuren101@gmail.com
 
