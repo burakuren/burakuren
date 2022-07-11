@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning developing advance API's
 - 📫 How to reach me: burakuren101@gmail.com
 - 📝 Here is my medium page: https://medium.com/@burakuren101
+- 🐦 Here is my Twitter https://twitter.com/burak_uren101
 
 <!---
 burakuren101/burakuren101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
