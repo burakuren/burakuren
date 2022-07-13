@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development, Python
 - 🌱 I’m currently learning developing advance API's
 - 📫 How to reach me: burakuren101@gmail.com
-- 📝 Here is my medium page: https://medium.com/@burakuren101
+- 📝 Here is my blog: https://medium.com/@burakuren101
 - 🐦 Here is my Twitter https://twitter.com/burak_uren101
 
 <!---
