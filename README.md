@@ -16,4 +16,4 @@ Most of my production work lives in private repositories — but the products ab
 
 ## Reach me
 
-📫 [me@burakuren.com](mailto:me@burakuren.com) · ✍🏻 [burakuren.com](https://burakuren.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/burakuren/)
+📫 [me@burakuren.com](mailto:contact@burakuren.com) · ✍🏻 [burakuren.com](https://burakuren.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/burakuren/)
