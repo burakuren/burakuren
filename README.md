@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Burak Üren
-- 👀 I’m interested in Backend Development, Python
-- 🌱 I’m currently learning how to build my own python web framework
-- 📫 How to reach me: contact@burakuren.com
-- ✍🏻 Here is my blog: https://burakuren.com/
+# Hi, I'm Burak Üren 👋
 
-<!---
-burakuren101/burakuren101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend & DevOps developer from Istanbul — Python, Django, and production infrastructure.
 
+## What I build
+
+- 🎓 **[BanaDersBul.com](https://www.banadersbul.com)** — Founder. A tutoring marketplace serving **4,500+ users**. I own the entire backend (Flask, PostgreSQL) and infrastructure: I built and ran its Kubernetes cluster, then migrated it to a self-managed hardened server (Docker Compose, Caddy, GitHub Actions CI/CD).
+- 🧲 **[MatFabe referral platform](https://tavsiye.matfabe.com)** — Backend developer. A referral web application for a private tutoring service, live in production (Django, PostgreSQL, HTMX).
+- 🌱 Currently learning web framework internals by building my own Python web framework.
+
+Most of my production work lives in private repositories — but the products above are live; the best way to review my work is to use them.
+
+## Stack
+
+`Python` `Django` `Django REST Framework` `Flask` `Celery` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Kubernetes` `AWS` `DigitalOcean` `GitHub Actions` `Caddy` `Nginx` `Linux`
+
+## Reach me
+
+📫 [me@burakuren.com](mailto:me@burakuren.com) · ✍🏻 [burakuren.com](https://burakuren.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/burakuren/)
