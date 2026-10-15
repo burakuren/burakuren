@@ -5,7 +5,7 @@
 <text x="46" y="75" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15.5" fill="#9198a4">Founder · 2021 → now</text>
 <text x="26" y="160" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#97c58e" letter-spacing="-1.5">5,000+</text>
 <text x="29" y="194" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#d7dae0">registered users</text>
-<text x="29" y="224" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9198a4">hosting $180 → $40 a month</text>
+<text x="29" y="224" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9198a4">99.88% uptime · hosting cost −78%</text>
 <line x1="28" y1="248" x2="372" y2="248" stroke="#2b3038"/>
 <text x="28" y="276" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#90b4da">flask · postgres · redis · docker</text>
 </svg>

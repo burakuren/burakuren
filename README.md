@@ -3,9 +3,9 @@
 <br>
 
 <p align="center">
-  <a href="https://www.banadersbul.com"><img src="assets/banadersbul-v2.svg" width="32%" alt="BanaDersBul: 5,000+ registered users"></a>
-  <img src="assets/smgrader-v2.svg" width="32%" alt="SMGrader: 80% fewer repeated DB reads">
-  <a href="https://tavsiye.matfabe.com"><img src="assets/matfabe-v2.svg" width="32%" alt="MatFabe: about 100 users in production"></a>
+  <a href="https://www.banadersbul.com"><img src="assets/banadersbul-v3.svg" width="32%" alt="BanaDersBul: 5,000+ registered users, 99.88% uptime, hosting cost cut 78%"></a>
+  <img src="assets/smgrader-v3.svg" width="32%" alt="SMGrader: ~80% fewer repeated DB reads, failure triage time halved">
+  <a href="https://tavsiye.matfabe.com"><img src="assets/matfabe-v3.svg" width="32%" alt="MatFabe: 60+ referrers in the network, sole backend engineer"></a>
 </p>
 
 <br>

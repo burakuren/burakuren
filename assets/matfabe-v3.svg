@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="MatFabe: ~100 users in production">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="MatFabe: 60+ referrers in the network">
 <rect x="1" y="1" width="398" height="298" rx="14" fill="#15171c" stroke="#2b3038" stroke-width="1.5"/>
 <rect x="28" y="30" width="5" height="48" rx="2.5" fill="#e2b466"/>
 <text x="46" y="52" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#f2f3f5">MatFabe</text>
 <text x="46" y="75" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15.5" fill="#9198a4">Backend Engineer · 2026 → now</text>
-<text x="26" y="160" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#e2b466" letter-spacing="-1.5">~100</text>
-<text x="29" y="194" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#d7dae0">users in production</text>
-<text x="29" y="224" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9198a4">ships several times a week</text>
+<text x="26" y="160" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#e2b466" letter-spacing="-1.5">60+</text>
+<text x="29" y="194" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#d7dae0">referrers in the network</text>
+<text x="29" y="224" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9198a4">sole backend engineer</text>
 <line x1="28" y1="248" x2="372" y2="248" stroke="#2b3038"/>
 <text x="28" y="276" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#90b4da">django · htmx · postgres · docker</text>
 </svg>
