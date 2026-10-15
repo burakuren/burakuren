@@ -1,24 +1,23 @@
-```console
-~ ❯ whoami
-Burak Üren · backend engineer · Istanbul
+<a href="https://burakuren.com"><img src="assets/header.svg" width="100%" alt="Burak Üren, Backend Engineer"></a>
 
-~ ❯ cat focus.txt
-APIs, background jobs, databases, and the Linux servers underneath.
-Fast queries, boring deploys, logs you can actually search.
+<p align="center">
+  <a href="https://burakuren.com">burakuren.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/burakuren/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:contact@burakuren.com">contact@burakuren.com</a>
+</p>
 
-~ ❯ ls -l ~/work
-banadersbul/   founder   2021 → now    5,000+ users · infra $180 → $40/mo
-smgrader/      backend   2022 → 2025   DRF + 4 Celery services · triage hours → min
-matfabe/       backend   2026 → now    Django · HTMX · test-first, live in prod
+<br>
 
-~ ❯ cat stack.txt
-python  django  drf  flask  sqlalchemy  celery
-postgresql  redis  rabbitmq
-docker  kubernetes  aws  github-actions  caddy  linux
-```
+<p align="center">
+  <a href="https://www.banadersbul.com"><img src="assets/banadersbul.svg" width="32%" alt="BanaDersBul: 5,000+ users"></a>
+  <img src="assets/smgrader.svg" width="32%" alt="SMGrader: 80% fewer repeated database reads">
+  <a href="https://tavsiye.matfabe.com"><img src="assets/matfabe.svg" width="32%" alt="MatFabe: about 100 people using it in production"></a>
+</p>
 
-Production code is private; the products are live: [banadersbul.com](https://www.banadersbul.com) · [tavsiye.matfabe.com](https://tavsiye.matfabe.com)
+<br>
 
-Open source: [my-website](https://github.com/burakuren/my-website), the source of [burakuren.com](https://burakuren.com)
+<p align="center">
+  <img src="assets/stack.svg" width="80%" alt="Python, Django, Flask, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, AWS, GitHub Actions, Linux, Nginx, Cloudflare, Bash">
+</p>
 
-[contact@burakuren.com](mailto:contact@burakuren.com) · [LinkedIn](https://www.linkedin.com/in/burakuren/)
+<br>
+
+<p align="center"><sub>Production code lives in private repos. Open source: <a href="https://github.com/burakuren/my-website">my-website</a>, the source of burakuren.com.</sub></p>

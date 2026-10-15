@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="BanaDersBul: 5,000+ users on a marketplace I built and run">
+<rect x="1" y="1" width="398" height="248" rx="12" fill="#15171c" stroke="#2b3038" stroke-width="1.5"/>
+<rect x="28" y="30" width="4" height="40" rx="2" fill="#97c58e"/>
+<text x="44" y="48" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f2f3f5">BanaDersBul</text>
+<text x="44" y="68" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9198a4" letter-spacing=".5">FOUNDER · 2021 → NOW</text>
+<text x="28" y="140" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#97c58e" letter-spacing="-1">5,000+</text>
+<text x="30" y="166" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#d7dae0">users on a marketplace I built and run</text>
+<text x="30" y="190" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a4">infra cost $180 → $40 a month</text>
+<line x1="28" y1="208" x2="372" y2="208" stroke="#2b3038"/>
+<text x="28" y="230" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#90b4da">flask · postgresql · redis · docker</text>
+</svg>
