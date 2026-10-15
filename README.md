@@ -1,15 +1,11 @@
-<a href="https://burakuren.com"><img src="assets/header.svg" width="100%" alt="Burak Üren, Backend Engineer"></a>
-
-<p align="center">
-  <a href="https://burakuren.com">burakuren.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/burakuren/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:contact@burakuren.com">contact@burakuren.com</a>
-</p>
+<img src="assets/header.svg" width="100%" alt="Burak Üren, Backend Engineer. I build the parts of a web product you don't see, and keep them running.">
 
 <br>
 
 <p align="center">
-  <a href="https://www.banadersbul.com"><img src="assets/banadersbul.svg" width="32%" alt="BanaDersBul: 5,000+ users"></a>
-  <img src="assets/smgrader.svg" width="32%" alt="SMGrader: 80% fewer repeated database reads">
-  <a href="https://tavsiye.matfabe.com"><img src="assets/matfabe.svg" width="32%" alt="MatFabe: about 100 people using it in production"></a>
+  <a href="https://www.banadersbul.com"><img src="assets/banadersbul.svg" width="32%" alt="BanaDersBul: 5,000+ registered users"></a>
+  <img src="assets/smgrader.svg" width="32%" alt="SMGrader: 80% fewer repeated DB reads">
+  <a href="https://tavsiye.matfabe.com"><img src="assets/matfabe.svg" width="32%" alt="MatFabe: about 100 users in production"></a>
 </p>
 
 <br>
